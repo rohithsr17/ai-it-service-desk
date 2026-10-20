@@ -1,0 +1,9 @@
+aws_region = "ap-southeast-1"
+ticket_table_name = "itsm-demo-tickets"
+lambda_function_name = "itsm-lex-handler"
+lambda_zip_path = "lambda.zip"
+bedrock_enabled = false
+bedrock_model_id = ""
+bedrock_model_arns = []
+enable_point_in_time_recovery = false
+log_retention_days = 14
